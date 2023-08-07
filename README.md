@@ -1,6 +1,8 @@
 # mhgdev-bin2dec
 
-This template should help get you started developing with Vue 3 in Vite.
+First project inspired in [app-ideas by florinpop17](https://github.com/florinpop17/app-ideas).
+
+This is a Binary to Decimal converter, the original idea is expanded, in order to have input error control and history of past results.
 
 ## Recommended IDE Setup
 
